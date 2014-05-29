@@ -2,6 +2,10 @@
     "name": "qless",
     "version": "0.0.1",
     "private": true,
-    "main": "index"
+    "main": "index",
+    "dependencies": {
+        "node-uuid": "*"
+    }
+
 }
 
