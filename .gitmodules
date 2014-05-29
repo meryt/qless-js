@@ -1,3 +1,4 @@
 [submodule "lib/qless-core"]
 	path = lib/qless-core
 	url = git@github.com:meryt/qless-core
+	branch = per-command
