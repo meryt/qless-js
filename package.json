@@ -4,7 +4,8 @@
     "private": true,
     "main": "index",
     "dependencies": {
-        "node-uuid": "*"
+        "node-uuid": "*",
+        "redis": "*"
     }
 
 }
